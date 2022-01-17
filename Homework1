@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Welcome to BBC.com</title>
+    </head>
+   
+   
+    <body>
+        <h1>Welcome to BBC.com</h1>
+        <h4>Thursday, 13 August </h4>
+        <nav class="menu">
+        
+        <ul>
+            <li><img src= "https://cdn.discordapp.com/attachments/735930780655681558/931744035159306290/bbc_logo.png"></li>
+            <li><a href = "#" > Sign In</a></li>
+            <li><a href = "#" > Home</a></li>
+            <li><a href = "#" > News</a></li> 
+            <li><a href ="#"  > Sport</a></li>
+            <li><a href = "#" > Reel</a></li>
+            <li><a href = "#" > Worklife</a></li>
+            <li><a href = "#" > Travel</a></li>
+            <li><a href = "#" > Future</a></li>
+            <li><a href = "#" > Culture</a></li> 
+            <li><a href = "#" > More</a></li> 
+            <li><a href = "#" > Search</a></li>
+            </ul>
+            </nav>
+
+            <section>
+                <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1676D/production/_113931029_composite.jpg">
+                <h2>Israel and UAE strike historic peace deal</h2>
+                <p>Israel and the UAE agree to normalize relations, marking the third Israel-Arab peace</p>
+                <span>Middle East</span>
+        
+            </section>    
+
+            <section>
+                <img src="https://ichef.bbci.co.uk/news/1024/branded_news/D39B/production/_113917145_gettyimages-144092698.jpg">
+                <h3>Americans, go home:Tension at Canada-US border </h3>
+                <span>Canada</span>
+
+            </section>
+            
+            <section>
+                <img src="https://ichef.bbci.co.uk/news/1024/branded_news/1771/production/_113910060_gettyimages-1219401083.jpg">
+                <h3>How will the world vaccinate seven billion people?</h3>
+                <span>Health</span>
+
+            </section>
+
+            <section>
+                <img src="https://ychef.files.bbci.co.uk/live/624x351/p08ngz84.jpg">
+                <h3>The online 'productivity gyms'</h3>
+                <span>Worklife</span>
+
+            </section>
+
+            <section>
+                <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/2745/production/_90135001_mediaitem90135000.jpg">
+                <h3>The folk singer murdered for his music</h3>
+                <span>Culture</span>
+            </section>
+
+            <section>
+                <img src="https://c.files.bbci.co.uk/6C7B/production/_113917772_062888947.jpg">
+                <h3>Biden and Harris say Trump has left US 'in tatters'</h3>
+                <p>Joe Biden and running mate Kamala Harris call President Donald Trump a 'whining' incompetent leader.</p>
+                <span>Us Election 2020</span>
+            </section>
+
+            <section>
+                <img src="https://c.files.bbci.co.uk/EA08/production/_113921995_hi062881024.jpg">
+                <h3>Women form 'solidarity chains' in Belarus protests</h3>
+                <p>Women take to the streets of Minsk dressed in white as they demand an end to police brutality.</p>
+                <span>Europe</span>
+            </section>
+
+            <section>
+                <img src="https://c.files.bbci.co.uk/295F/production/_113919501_hi045965426.jpg">
+                <h3>Trump says low-pressure shower heads wont wash</h3>
+                <p>The US calls for rules to be eased after Donald Trump complained of issues washing his hair</p>
+                <span>Us & Canada</span>
+
+            </section>
+
+        </body>
+
+
+
+</html>
